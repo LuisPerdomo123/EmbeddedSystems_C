@@ -1,0 +1,12 @@
+../Src/main.c:45:13:delay_ms	24	static
+../Src/main.c:72:20:lcd_write16	16	static,ignoring_inline_asm
+../Src/main.c:93:13:lcd_cmd	16	static
+../Src/main.c:111:13:lcd_data8	16	static
+../Src/main.c:129:13:lcd_init	8	static
+../Src/main.c:171:13:lcd_set_window	24	static
+../Src/main.c:197:13:lcd_fill_rect	32	static
+../Src/main.c:267:13:lcd_draw_hex_char	40	static
+../Src/main.c:312:13:lcd_draw_hex_text	40	static
+../Src/main.c:337:13:hex16_to_string	16	static
+../Src/main.c:354:13:lcd_diagnostic_matrix	40	static
+../Src/main.c:408:5:main	8	static,ignoring_inline_asm

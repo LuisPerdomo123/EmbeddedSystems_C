@@ -1,0 +1,13 @@
+../Src/adc.c:39:13:adc_clock_76mhz_init	4	static
+../Src/adc.c:85:13:adc_dma_init	4	static
+../Src/adc.c:99:6:pa1_adc_init	16	static,ignoring_inline_asm
+../Src/adc.c:182:6:start_convertion	4	static
+../Src/adc.c:220:5:adc_capture_wait	24	static,ignoring_inline_asm
+../Src/adc.c:264:10:adc_capture_error	4	static
+../Src/adc.c:265:10:adc_capture_dma_flags	4	static
+../Src/adc.c:266:10:adc_capture_adc1_flags	4	static
+../Src/adc.c:267:10:adc_capture_adc2_flags	4	static
+../Src/adc.c:268:10:adc_capture_remaining	4	static
+../Src/adc.c:274:10:adc_get_sample	24	static
+../Src/adc.c:286:10:adc_get_time_ns	24	static
+../Src/adc.c:294:10:adc_read	8	static

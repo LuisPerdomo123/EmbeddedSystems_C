@@ -1,0 +1,4 @@
+../Src/main.c:20:5:main	2
+../Src/main.c:45:13:uart2_send_string	2
+../Src/main.c:51:13:exti_callback	1
+../Src/main.c:58:6:EXTI15_10_IRQHandler	2
