@@ -1,0 +1,5 @@
+D:/Embedded-C/chip_header/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Src/adc.c:19:6:pa1_adc_interrupt_init	16	static,ignoring_inline_asm
+../Src/adc.c:91:6:pa1_adc_init	16	static,ignoring_inline_asm
+../Src/adc.c:159:6:start_convertion	4	static
+../Src/adc.c:174:10:adc_read	4	static

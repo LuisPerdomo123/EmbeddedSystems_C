@@ -1,0 +1,3 @@
+D:/Embedded-C/chip_header/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Src/timer.c:9:6:tim2_1hz_init	4	static
+../Src/timer.c:28:6:tim2_1hz_interrupt_init	8	static
